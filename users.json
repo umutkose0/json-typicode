@@ -1,0 +1,5 @@
+"users": [
+    { "id": 1, "name": "umut","email":"umut2819@gmail.com","password":"123456" },
+    { "id": 2, "name": "mahmut","email":"umut@rewgua.com","password":"123456" },
+    { "id": 2, "name": "tankut","email":"tankut@rewgua.com","password":"123456" },
+  ]
